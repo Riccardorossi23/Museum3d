@@ -24,8 +24,6 @@ namespace Museum3d
         {
             InitializeComponent();
         }
-
-
         private void Stampa_Click(object sender, RoutedEventArgs e)
         {
             if (rdbQuadro1.IsChecked == true)

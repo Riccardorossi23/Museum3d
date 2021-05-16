@@ -48,7 +48,6 @@ namespace Museum3d
             }
         }
 
-
         private void Prossima_Pagina_Click(object sender, RoutedEventArgs e)
         {
             new PageMuseum2().ShowDialog();

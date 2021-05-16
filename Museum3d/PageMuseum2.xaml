@@ -35,10 +35,6 @@
                 <Label Content="Dettaglio quadro:"  Grid.Row="2" Grid.Column="0" FontSize="18" Width="180" VerticalAlignment="Center" HorizontalAlignment="Right"/>
                 <Label x:Name="lblQuadro" Grid.Row="2" Grid.Column="1" Width="400" Height="80"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
                 <Button x:Name="Prossima_Pagina2" Content="Next" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="40" Width="100" Click="Prossima_Pagina2_Click"/>
-
-
-
-                
             </Grid>
         </StackPanel>
     </Grid>

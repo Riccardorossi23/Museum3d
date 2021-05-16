@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:Museum3d"
         mc:Ignorable="d"
         Title="Muesuem3d" Height="450" Width="800">
-    
     <Grid>
         <StackPanel>
             <Grid>

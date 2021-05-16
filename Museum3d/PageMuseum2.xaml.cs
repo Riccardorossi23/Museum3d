@@ -53,7 +53,6 @@ namespace Museum3d
             new PageMuseum3().ShowDialog();
         }
     }
-
 }
 
     
